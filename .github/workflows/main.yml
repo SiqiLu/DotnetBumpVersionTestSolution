@@ -29,5 +29,5 @@ jobs:
               with:
                   version_files: "**/*.csproj"
                   version_mask: "0.0.0.1"
-                  version_overwrite: "*.*.*.*"
+                  version_overwrite: "2.3.4.5"
                   github_token: ${{ secrets.GITHUB_TOKEN }}
