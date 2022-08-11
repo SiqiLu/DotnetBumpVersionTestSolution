@@ -28,5 +28,4 @@ jobs:
               uses: SiqiLu/dotnet-bump-version@master
               with:
                   version_files: "**/*.csproj"
-                  version_overwrite: "2.3.4.5"
                   github_token: ${{ secrets.GITHUB_TOKEN }}
