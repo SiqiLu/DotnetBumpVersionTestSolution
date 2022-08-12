@@ -1,12 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Version>2.3.4.Alpha</Version>
-    <PackageVersion>2.3.4.Alpha</PackageVersion>
+    <Version>2.3.4</Version>
+    <PackageVersion>2.3.4</PackageVersion>
     <AssemblyVersion>2.3.4.Alpha</AssemblyVersion>
     <FileVersion>2.3.4.Alpha</FileVersion>
     <InformationalVersion>2.3.4.Alpha</InformationalVersion>
