@@ -4,11 +4,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Version>3.0.5.0</Version>
-    <PackageVersion>3.0.5.0</PackageVersion>
-    <AssemblyVersion>3.0.5.0</AssemblyVersion>
-    <FileVersion>3.0.5.0</FileVersion>
-    <InformationalVersion>3.0.5.0</InformationalVersion>
+    <Version>2.3.4</Version>
+    <PackageVersion>2.3.4</PackageVersion>
+    <AssemblyVersion>2.3.4</AssemblyVersion>
+    <FileVersion>2.3.4</FileVersion>
+    <InformationalVersion>2.3.4</InformationalVersion>
   </PropertyGroup>
 
 </Project>
