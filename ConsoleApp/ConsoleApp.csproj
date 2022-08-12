@@ -5,11 +5,11 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Version>2.3.4</Version>
-    <PackageVersion>2.3.4</PackageVersion>
-    <AssemblyVersion>2.3.4</AssemblyVersion>
-    <FileVersion>2.3.4</FileVersion>
-    <InformationalVersion>2.3.4</InformationalVersion>
+    <Version>2.3.5</Version>
+    <PackageVersion>2.3.5</PackageVersion>
+    <AssemblyVersion>2.3.5</AssemblyVersion>
+    <FileVersion>2.3.5</FileVersion>
+    <InformationalVersion>2.3.5</InformationalVersion>
   </PropertyGroup>
 
   <ItemGroup>
